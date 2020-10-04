@@ -1,0 +1,6 @@
+# CAN options
+#
+menuconfig ZPP
+	bool "Zephyr++"
+	help
+	  Enable C++ Shim for some Zephyr APIs
